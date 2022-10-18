@@ -11,6 +11,6 @@ General Requirements:
 	View:
 		- Display data from mongoDB
 		- Create React views
-	Personal DB:
+	Personal DB (MongoDB):
 		- Add data to personal DB table (only with authentication)
 		- View data on personal DB table (no authentication)
