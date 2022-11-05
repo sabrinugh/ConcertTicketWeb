@@ -1,0 +1,13 @@
+- populate database ( concert -> tickets)
+	Concert - tickets(keep track of how many tickets bought)- artist- date- time- -price -venue
+	Customer db - name - email - number - orders -wishlist
+
+
+-botstrap website - tab to loging/sign up
+		  -home page
+		  -browse
+		  -search bar
+		  -personal account page
+	
+
+	
